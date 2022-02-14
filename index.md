@@ -1,5 +1,5 @@
-![IMG_1020](https://user-images.githubusercontent.com/76549884/153914042-ea1eab4c-392e-4d84-8e6c-7b55e94d69fc.jpg)
-)
+![IMG_1020](https://user-images.githubusercontent.com/76549884/153914042-ea1eab4c-392e-4d84-8e6c-7b55e94d69fc.jpg = 32*32)
+
 
 ## What is this project?
 
