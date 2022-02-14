@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+![IMG_1020](https://user-images.githubusercontent.com/76549884/153914042-ea1eab4c-392e-4d84-8e6c-7b55e94d69fc.jpg)
+)
 
-You can use the [editor on GitHub](https://github.com/HaYeonKim00/CES1_spring2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is this project?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project was intended to be set up right in front of the elevator of 5th floor in Milstein(Barnard College Main Library). It was first week back at school and was looking for a line that could cheer students up. On my screen, I printed a line from a movie called “About Time”. The line goes: We're all travelling through time together every day of our lives. All we can do is do our best to relish this remarkable ride. 
 
-### Markdown
+
+### Where was it displayed?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I assumed that the string connected will rotate and spin a lot. Thus made the line be visible on all four sides. The lines were rotating. To clearly make viewers read the line, I gave the contrast to the word color and background color. Name of the movie was used in red since I wanted to give distinction between the line and the title. 
 
-```markdown
-Syntax highlighted code block
+### Aim of ESP32_AboutTime
 
-# Header 1
-## Header 2
-### Header 3
+### Hardships
 
-- Bulleted
-- List
+Was deciding if I needed a more artistic functions but the core aim for my screen was to deliver the line so decided not to go with any art but easier to read looking screen. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaYeonKim00/CES1_spring2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Connecting ESP32 to Arduino required downloading extra driver to install a new port. 
